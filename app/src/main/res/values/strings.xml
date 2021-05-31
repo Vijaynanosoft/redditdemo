@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">RedditDemo</string>
+
+    <string name="preference_name">Preference Name</string>
+
+    <string name="open_drawer">Open</string>
+    <string name="close_drawer">close</string>
+
+    <string name="error_sign_in">SignIn required</string>
+
+
+
+
+</resources>
